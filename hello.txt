@@ -1,6 +1,5 @@
 hello git! hello atguigu! first修改 222222
 hello git! hello atguigu!
-<<<<<<< HEAD
 hello git! hello atguigu! master test
 hello git! hello atguigu! hotfix test
 
